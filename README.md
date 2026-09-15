@@ -2,7 +2,7 @@
 
 Personal portfolio website for Suvankar Das, M.Sc. Economics (Data Analytics) student at Symbiosis School of Economics, Pune.
 
-**🔗 Live site:** [https://<your-github-username>.github.io/<your-repo-name>/](https://<your-github-username>.github.io/<your-repo-name>/)
+**🔗 Live site:** https://suvankar-d.github.io/Portfolio/
 
 > Replace the link above with your actual GitHub Pages URL once you've deployed (see below), then update it here too.
 
